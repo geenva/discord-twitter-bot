@@ -1,5 +1,5 @@
 {
-  "name": "discord-twitter-bot",
+  "name": "@geenva/distwit",
   "version": "1.0.0",
   "description": "A discord bot that sends messages to a channel whenever a specific user tweets.",
   "main": "main.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geenva/discord-twitter-bot.git"
+    "url": "git://https://github.com/geenva/discord-twitter-bot.git"
   },
   "keywords": [
     "discord",
