@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mastashake08/discord-twitter-bot.git"
+    "url": "git+https://github.com/geenva/discord-twitter-bot.git"
   },
   "keywords": [
     "discord",
@@ -18,9 +18,9 @@
   "author": "mastashake08",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mastashake08/discord-twitter-bot/issues"
+    "url": "https://github.com/geenva/discord-twitter-bot/issues"
   },
-  "homepage": "https://github.com/mastashake08/discord-twitter-bot#readme",
+  "homepage": "https://github.com/geenva/discord-twitter-bot#readme",
   "dependencies": {
     "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
